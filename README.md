@@ -2,3 +2,5 @@
 # criacao_projeto
 # ideias
 # desenvolvimento
+# teste
+# aplicacao
